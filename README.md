@@ -1,1 +1,1 @@
-# Normane
+# Normane Discord Bot
